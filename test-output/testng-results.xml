@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-12T14:00:19Z" name="Default suite" finished-at="2021-09-12T14:00:19Z" duration-ms="139">
+    <groups>
+    </groups>
+    <test started-at="2021-09-12T14:00:19Z" name="Default test" finished-at="2021-09-12T14:00:19Z" duration-ms="139">
+      <class name="MavenTestG.MavenTestI.clsTest">
+        <test-method signature="div()[pri:0, instance:MavenTestG.MavenTestI.clsTest@60129b9a]" started-at="2021-09-12T14:00:19Z" name="div" finished-at="2021-09-12T14:00:19Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method signature="mult()[pri:0, instance:MavenTestG.MavenTestI.clsTest@60129b9a]" started-at="2021-09-12T14:00:19Z" name="mult" finished-at="2021-09-12T14:00:19Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method signature="sum()[pri:0, instance:MavenTestG.MavenTestI.clsTest@60129b9a]" started-at="2021-09-12T14:00:19Z" name="sum" finished-at="2021-09-12T14:00:19Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- MavenTestG.MavenTestI.clsTest -->
+      <class name="MavenTestG.MavenTestI.clsTest3">
+        <test-method signature="div3()[pri:0, instance:MavenTestG.MavenTestI.clsTest3@78d6692f]" started-at="2021-09-12T14:00:19Z" name="div3" finished-at="2021-09-12T14:00:19Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div3 -->
+        <test-method signature="mult3()[pri:0, instance:MavenTestG.MavenTestI.clsTest3@78d6692f]" started-at="2021-09-12T14:00:19Z" name="mult3" finished-at="2021-09-12T14:00:19Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult3 -->
+        <test-method signature="sum3()[pri:0, instance:MavenTestG.MavenTestI.clsTest3@78d6692f]" started-at="2021-09-12T14:00:19Z" name="sum3" finished-at="2021-09-12T14:00:19Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum3 -->
+      </class> <!-- MavenTestG.MavenTestI.clsTest3 -->
+      <class name="MavenTestG.MavenTestI.clsTest2">
+        <test-method signature="div2()[pri:0, instance:MavenTestG.MavenTestI.clsTest2@7a55af6b]" started-at="2021-09-12T14:00:19Z" name="div2" finished-at="2021-09-12T14:00:19Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div2 -->
+        <test-method signature="mult2()[pri:0, instance:MavenTestG.MavenTestI.clsTest2@7a55af6b]" started-at="2021-09-12T14:00:19Z" name="mult2" finished-at="2021-09-12T14:00:19Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult2 -->
+        <test-method signature="sum2()[pri:0, instance:MavenTestG.MavenTestI.clsTest2@7a55af6b]" started-at="2021-09-12T14:00:19Z" name="sum2" finished-at="2021-09-12T14:00:19Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum2 -->
+      </class> <!-- MavenTestG.MavenTestI.clsTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
