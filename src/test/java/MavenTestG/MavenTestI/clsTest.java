@@ -45,6 +45,7 @@ public class clsTest {
 		System.out.println("Multi1");
 		
 		Assert.assertEquals(200,val);
+		System.out.println("Assert.assertEquals(200,val));
 	}
 	
 }
